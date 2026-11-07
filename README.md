@@ -1,4 +1,4 @@
-                                                         #Excel Sales Analysis – Product Sales Dashboard
+                                                         Excel Sales Analysis – Product Sales Dashboard
 
 **Project Overview**
 
